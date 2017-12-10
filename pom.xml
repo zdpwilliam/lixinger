@@ -11,10 +11,12 @@
 
     <modules>
         <module>lixinger-common</module>
-        <module>lixinger-dao</module>
-        <module>lixinger-service</module>
-        <module>lixinger-web</module>
-        <module>lixinger-domain</module>
+        <module>lixinger-usr</module>
+        <module>lixinger-portal</module>
+        <module>lixinger-msg</module>
+        <module>lixinger-fb</module>
+        <module>lixinger-stlmnt</module>
+        <module>lixinger-oauth2</module>
     </modules>
 
 
